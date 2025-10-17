@@ -12,6 +12,14 @@ Atividade para o curso técnico de Desenvolvimento de Sistemas do Senai com uso 
 
 ##
 
+<b>Atualizações:</b>
+
+-💻 Atualizado com uma nova interface mais confortável
+
+-🌙 O tema do sistema muda de acordo com o horário do dia
+
+-📩 Informações e data e hora no cabeçalho do site
+
 Acesso à aplicação: https://lucassiq31.github.io/API_Clima/
 
 ##
